@@ -41,7 +41,7 @@ aux_links:
     - "https://www.youtube.com/channel/UCOZGajfM0ki5o5gten7YwsA"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: ""
+footer_content: "Copyright 2019"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
