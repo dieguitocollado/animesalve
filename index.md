@@ -9,7 +9,7 @@ permalink: /
 Escuchar y leer a Fabrizio es entrar en un mundo de Humanidad donde los &quot;invisibles&quot;, &quot;desheredados&quot; tienen un sitio normalmente, sino despreciado, sí olvidado.
 {: .fs-6 .fw-300 }
 
-[Discografía](/gridtest.html){: .btn .fs-5 .mb-4 .mb-md-0  } [Biografía](/biografia.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Discografía](/animesalve/discografia){: .btn .fs-5 .mb-4 .mb-md-0  } [Biografía](/animesalve/biografia){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
