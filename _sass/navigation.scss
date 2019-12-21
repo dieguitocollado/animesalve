@@ -1,6 +1,62 @@
 //
 // Main nav, breadcrumb, etc...
 //
+.logoandre {
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+  position: relative;
+  left: 48%;
+  top: 50%;
+  }
+    @media (max-width: 800px) {
+    .logoandre {
+	    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+	position: relative;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  top: 5%;
+  left: 0%;
+   
+      }
+    }
+.logoandre2 {
+	width: 30em;
+}
+@media (max-width: 800px) {
+.logoandre2 {
+	 width: 100%;
+  height: auto;
+}
+}
+@media (max-height: 755px) {
+.logoandre2 {
+	 width: auto;
+  height: 4em;
+}
+}
+@media (max-height: 620px) {
+.logoandre2 {
+	 width: auto;
+  height: 3em;
+}
+}
+@media (max-height: 430px) {
+.logoandre2 {
+	 width: auto;
+  height: 100%;
+}
+}
+
+
+
 .navigation-list {
   padding: 0;
   margin-top: 0;

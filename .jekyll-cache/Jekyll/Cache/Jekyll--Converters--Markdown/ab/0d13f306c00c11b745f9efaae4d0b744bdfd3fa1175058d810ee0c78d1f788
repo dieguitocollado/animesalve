@@ -1,0 +1,320 @@
+I"�r<p>&lt;!DOCTYPE html&gt;</p>
+
+<html lang="es-ES">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+  
+    <title> - Your awesome title</title>
+
+    
+  
+
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico" type="image/x-icon" />
+
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/just-the-docs.css" />
+
+  
+
+  
+    <script type="text/javascript" src="http://localhost:4000/assets/js/vendor/lunr.min.js"></script>
+  
+  <script type="text/javascript" src="http://localhost:4000/assets/js/just-the-docs.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Your awesome title | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Your awesome title" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<link rel="canonical" href="http://localhost:4000/default.html" />
+<meta property="og:url" content="http://localhost:4000/default.html" />
+<meta property="og:site_name" content="Your awesome title" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"http://localhost:4000/default.html","headline":"Your awesome title","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  
+
+</head>
+
+<body>
+  <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="link" viewBox="0 0 16 16">
+      <title>Enlace</title>
+      <path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+    </symbol>
+  </svg>
+
+  <div class="page-wrap">
+    <div class="side-bar">
+      <div class="site-header">
+        <button class="menu-button fs-3 js-main-nav-trigger" data-text-toggle="Hide" type="button">Menú</button>
+      </div>
+
+      <div class="navigation main-nav js-main-nav">
+	  <div class="logoandre">
+<img class="logoandre2" src="/logo.svg" alt="Fabrizio de André" />
+</div>
+        <nav role="navigation" aria-label="Main navigation">
+  <ul class="navigation-list"><li class="navigation-list-item"><a href="http://localhost:4000/about/" class="navigation-list-link">About</a></li><li class="navigation-list-item active"><a href="http://localhost:4000/discografia2.html" class="navigation-list-link"></a></li><li class="navigation-list-item active"><a href="http://localhost:4000/default.html" class="navigation-list-link active"></a></li><li class="navigation-list-item active"><a href="http://localhost:4000/" class="navigation-list-link"></a></li><li class="navigation-list-item active"><a href="http://localhost:4000/discografia.html" class="navigation-list-link"></a></li><li class="navigation-list-item"><a href="http://localhost:4000/" class="navigation-list-link">Inicio</a></li><li class="navigation-list-item"><a href="http://localhost:4000/biografia.html" class="navigation-list-link">Biografía</a></li><li class="navigation-list-item"><a href="http://localhost:4000/discografia/" class="navigation-list-link">Discografía</a><ul class="navigation-list-child-list "><li class="navigation-list-item "><a href="http://localhost:4000/discografia/estudio.html" class="navigation-list-link">Estudio</a></li><li class="navigation-list-item "><a href="http://localhost:4000/discografia/singles.html" class="navigation-list-link">Singles</a></li><li class="navigation-list-item "><a href="http://localhost:4000/discografia/directo.html" class="navigation-list-link">Directos</a></li><li class="navigation-list-item "><a href="http://localhost:4000/discografia/recopilatorios.html" class="navigation-list-link">Recopilatorios</a></li><li class="navigation-list-item "><a href="http://localhost:4000/discografia/tributos.html" class="navigation-list-link">Tributos</a></li></ul></li></ul>
+</nav>
+
+		
+      </div>
+      <footer class="site-footer">
+        <p class="text-small text-grey-dk-000 mb-4">Última modificación: 15.12.2019</p>
+      </footer>
+    </div>
+    <div class="main-content-wrap js-main-content" tabindex="0">
+      <div class="main-content">
+        <div class="page-header js-page-header">
+          
+          <div class="search">
+            <div class="search-input-wrap">
+              <input type="text" class="js-search-input search-input" tabindex="0" placeholder="Buscar en AnimeSalve.com" aria-label="Buscar en AnimeSalve.com" autocomplete="off" />
+              <svg width="14" height="14" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="search-icon"><title>Buscar</title><g fill-rule="nonzero"><path d="M17.332 20.735c-5.537 0-10-4.6-10-10.247 0-5.646 4.463-10.247 10-10.247 5.536 0 10 4.601 10 10.247s-4.464 10.247-10 10.247zm0-4c3.3 0 6-2.783 6-6.247 0-3.463-2.7-6.247-6-6.247s-6 2.784-6 6.247c0 3.464 2.7 6.247 6 6.247z" /><path d="M11.672 13.791L.192 25.271 3.02 28.1 14.5 16.62z" /></g></svg>
+            </div>
+            <div class="js-search-results search-results-wrap"></div>
+          </div>
+          
+          
+        </div>
+        <div class="page">
+          
+            
+          
+          <div id="main-content" class="page-content" role="main">
+            
+              &lt;!DOCTYPE html&gt;<html lang="en-US"><head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+  
+    <title>Biografía - Your awesome title</title>
+
+    
+  
+
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico" type="image/x-icon" />
+
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/just-the-docs.css" />
+
+  
+
+  
+    <script type="text/javascript" src="http://localhost:4000/assets/js/vendor/lunr.min.js"></script>
+  
+  <script type="text/javascript" src="http://localhost:4000/assets/js/just-the-docs.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Biografía | Your awesome title</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Biografía" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<link rel="canonical" href="http://localhost:4000/biografia.html" />
+<meta property="og:url" content="http://localhost:4000/biografia.html" />
+<meta property="og:site_name" content="Your awesome title" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"http://localhost:4000/biografia.html","headline":"Biografía","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  
+
+</head>
+
+<body>
+  <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="link" viewBox="0 0 16 16">
+      <title>Link</title>
+      <path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+    </symbol>
+  </svg>
+
+  <div class="page-wrap">
+    <div class="side-bar">
+      <div class="site-header">
+        <button class="menu-button fs-3 js-main-nav-trigger" data-text-toggle="Hide" type="button">Menu</button>
+      </div>
+
+      <div class="navigation main-nav js-main-nav">
+	  <div class="logoandre">
+<img class="logoandre2" src="/logo.svg" alt="Fabrizio de André" />
+</div>
+        <nav role="navigation" aria-label="Main navigation">
+  <ul class="navigation-list"><li class="navigation-list-item"><a href="http://localhost:4000/about/" class="navigation-list-link">About</a></li><li class="navigation-list-item active"><a href="http://localhost:4000/discografia2.html" class="navigation-list-link"></a></li><li class="navigation-list-item active"><a href="http://localhost:4000/default.html" class="navigation-list-link"></a></li><li class="navigation-list-item active"><a href="http://localhost:4000/" class="navigation-list-link"></a></li><li class="navigation-list-item active"><a href="http://localhost:4000/discografia.html" class="navigation-list-link"></a></li><li class="navigation-list-item"><a href="http://localhost:4000/" class="navigation-list-link">Inicio</a></li><li class="navigation-list-item active"><a href="http://localhost:4000/biografia.html" class="navigation-list-link active">Biografía</a></li><li class="navigation-list-item"><a href="http://localhost:4000/discografia/" class="navigation-list-link">Discografía</a><ul class="navigation-list-child-list "><li class="navigation-list-item "><a href="http://localhost:4000/discografia/estudio.html" class="navigation-list-link">Estudio</a></li><li class="navigation-list-item "><a href="http://localhost:4000/discografia/singles.html" class="navigation-list-link">Singles</a></li><li class="navigation-list-item "><a href="http://localhost:4000/discografia/directo.html" class="navigation-list-link">Directos</a></li><li class="navigation-list-item "><a href="http://localhost:4000/discografia/recopilatorios.html" class="navigation-list-link">Recopilatorios</a></li><li class="navigation-list-item "><a href="http://localhost:4000/discografia/tributos.html" class="navigation-list-link">Tributos</a></li></ul></li></ul>
+</nav>
+
+		
+      </div>
+      <footer class="site-footer">
+        <p class="text-small text-grey-dk-000 mb-4">This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.</p>
+      </footer>
+    </div>
+    <div class="main-content-wrap js-main-content" tabindex="0">
+      <div class="main-content">
+        <div class="page-header js-page-header">
+          
+          <div class="search">
+            <div class="search-input-wrap">
+              <input type="text" class="js-search-input search-input" tabindex="0" placeholder="Buscar en AnimeSalve.com" aria-label="Buscar en AnimeSalve.com" autocomplete="off" />
+              <svg width="14" height="14" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="search-icon"><title>Search</title><g fill-rule="nonzero"><path d="M17.332 20.735c-5.537 0-10-4.6-10-10.247 0-5.646 4.463-10.247 10-10.247 5.536 0 10 4.601 10 10.247s-4.464 10.247-10 10.247zm0-4c3.3 0 6-2.783 6-6.247 0-3.463-2.7-6.247-6-6.247s-6 2.784-6 6.247c0 3.464 2.7 6.247 6 6.247z" /><path d="M11.672 13.791L.192 25.271 3.02 28.1 14.5 16.62z" /></g></svg>
+            </div>
+            <div class="js-search-results search-results-wrap"></div>
+          </div>
+          
+          
+        </div>
+        <div class="page">
+          
+            
+          
+          <div id="main-content" class="page-content" role="main">
+      <h1 id="biografia">
+        
+        
+          <a href="#biografia" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> 
+        
+        
+          <a href="#biografia" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> <strong>Biografia</strong>
+        
+        
+      
+        
+        
+      </h1>
+    
+      <h2 id="infancia">
+        
+        
+          <a href="#infancia" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> 
+        
+        
+          <a href="#infancia" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> <strong>Infancia</strong>
+        
+        
+      
+        
+        
+      </h2>
+
+<p>Cristiano Fabrizio De André nació en Génova (Italia) el 18 de febrero de 1940. La leyenda cuenta que en la casa había un gramófono y que el profesor Giuseppe De André, para aliviar los dolores de su esposa, puso "Vals Campestre" de Gino Marinuzzi, a partir del cual años más tarde Fabricio se inspiró para componer una de sus primeras canciones, "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CCanzoni%5C%5CValzerAmore.htm">Valzer per un amore</a>".</p>
+
+<p>Debido a la guerra, que había provocado que muchas personas tuvieran que huir, pasó los primeros años de su vida en la casa de campo de Revignano d'Asti, en compañía de su madre (Luisa Amerio), su hermano Mauro y las dos abuelas, mientras que su padre se vio obligado a esconderse para escapar de los fascistas que lo perseguían.</p>
+
+<p>Ese corto período de tiempo fue sin duda uno de los más importantes y formativos para él: por el tipo de vida que llevaba, libre y sin preocupaciones, y por algunos encuentros cruciales, tales como con el campesino Emilio Fassio, quien le enseñó el amor por los animales y el campo que Fabrizio buscará toda su vida. La infancia en Revignano d'Asti y los personajes que lo poblaron - como la pequeña Nina Manfieri (que muchos años más tarde le dedicará la canción "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CAnimeSalve%5CNina.htm">Ho visto a Nina volare</a>") o los agricultores Emilio y Felicina Fassio - seguirán siendo una fuente de pensamiento e inspiración hasta su última producción.</p>
+
+<p>Como recuerda su madre: "Fabrizio estaba encantado de correr por los campos, seguir a los campesinos en su trabajo, ir a cazar con ellos … Después de la guerra todos estábamos contentos de volver a la ciudad, pero él estaba desesperado … Tenía cinco años. Fue un sufrimiento difícil para él, acostumbrado como estaba a correr libremente por los campos … Desde pequeño no podía soportar ver a la gente sufrir. Cuando salíamos juntos, cada vez que me encontraba con un mendigo me obligaba a parar y darle dinero" (En estas palabras emerge la espontaneidad, yo diría que casi, el carácter innato de la dimensión solidaria del futuro anarquista).</p>
+
+<p>Después de la guerra, la familia regresa a Génova y se instala en la nueva casa en Via Trieste 13. En octubre de 1946 Fabrizio se inscribe en el primer grado del Instituto de monjas Marcelline, donde - manifiesta su intolerancia a los espacios estrechos y a la disciplina, pero también una vena irónica que a menudo se convierten en auto ironía - las bautiza con el nombre de "Porcelline". Al ser vanos los intentos de las monjas que hacerlo estudiar, deciden inscribirle al año siguiente en una escuela pública: Fabrizio así comienza el segundo año en la escuela Armando Díaz, Via Cesare Battisti 5.</p>
+
+<p>En agosto de 1948, en Pocol, conoció a Paolo Villaggio, que por entonces tenía dieciséis años. Los dos simpatizaron de inmediato, pero la diferencia de edad de siete años no permitió en esos momentos que esa simpatía se convirtiera en una verdadera amistad. Pablo y Fabrizio perdieron el contacto para volver a encontrarse diez años más tarde. Desde ese momento se convirtieron en inseparables.</p>
+
+<p>En el verano de 1950, después de finalizar el cuarto grado, Fabrizio pasó sus últimas vacaciones en Revignano. Su padre había decidido vender la casa y comprar un apartamento en Asti. Fabrizio sufrió mucho, porque sus recuerdos más bellos de la infancia estaban ligados a ese lugar. Interiormente tomó la decisión de que una vez que creciera volvería a comprar la casa de campo y que bajo ninguna circunstancia abandonaría esos lugares que tanto le gustaban. No abandonó ese deseo, que lo acompañaría en sus siguientes años, pero lo hizo realidad allende de los mares, en la isla de Cerdeña.</p>
+
+<p>En octubre de 1951 comenzó Fabrizio sus siguientes estudios en la escuela Giovanni Pascoli, pero al sentirse atraído por el juego y la vida en la calle, no mostró ningún interés en los estudios. El padre, furioso, decidió entonces dejarle en manos de los estrictos jesuitas de Arecco, pero un lamentable episodio con un padre "bulicio" (homosexual) lo llevó a terminar los estudios en el Instituto Palazzi.</p>
+
+<p>"Después de finalizar esos estudios - recuerda la madre - fue a la escuela secundaria Colombo, a la que asistió con regularidad hasta que se licenció. En las asignaturas de humanidades iba bastante bien, aunque no estudiaba mucho, pero las asignaturas de ciencias le resultaban difíciles. Sin embargo, no se esforzaba lo suficiente para sacar buenas notas, le bastaba simplemente con aprobar. Su pasión siempre fue la música. Le habían regalado una guitarra y nunca la dejaba, incluso cuando iba al baño. En esa época es cuando empezó a escribir algunas canciones, a cantar ".</p>
+
+<p>Fue durante sus años de secundaria cuando tuvo una experiencia que marcó para siempre a Fabrizio: en la primavera de 1956, su padre trajo de Francia dos discos de Georges Brassens. Del encuentro con el gran cantante francés, Fabrizio obtuvo el estímulo para la lectura de autores anarquistas que nunca abandonaría: Bakunin y Malatesta, Kropotkin y Stirner. Además, en las canciones de Brassens, se encontró con esos personajes tan humildes y verdaderos como los que vivían en las callejuelas de su propia ciudad y a los que Fabrizio les dará espacio, comprensión y dignidad en sus canciones.</p>
+
+<p>De André a continuación se matriculó en la universidad, pero se confirmó su baja propensión a los estudios "oficiales": comenzó en medicina, para acabar finalmente en Derecho, sin terminar de graduarse. Sus días los pasaba escuchando música, con lecturas (Villon y Dostoievski, siempre Bakunin y Stirner) y, sobre todo, por las noches en compañía de amigos Luigi Tenco, Gino Paoli, Paolo Villaggio y otros. Años más tarde afirmó recordando esos momentos: "Muy pronto me quedó claro que mi trabajo tenía que caminar por dos vertientes: el ansia por una justicia social que todavía no existía, y la ilusión de poder participar, de algún modo, en cambiar el mundo. La segunda se desmoronó pronto, los primera permanece todavía".</p>
+    
+      <h2 id="primeras-composiciones">
+        
+        
+          <a href="#primeras-composiciones" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> 
+        
+        
+          <a href="#primeras-composiciones" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> <strong>Primeras composiciones</strong>
+        
+        
+      
+        
+        
+      </h2>
+
+<p>Ya en 1958, había compuesto "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CNuvoleBarocche%5C%5CNuvoleBarocche_cancion.htm">Nuvole barocche</a>" y "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CNuvoleBarocche%5CEfulaNotte.htm">E fu la notte</a>", piezas modestas escritas en colaboración, que años más tarde Fabricio definirá como "dos pecados de juventud." En el verano del 60, escribió junto a Clelia Petracchi la que siempre ha considerado su primera verdadera canción, "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CVolume3%5CMiche.htm">La balatta del Miche'</a>", que sigue siendo, sino una de la más bellas, una de las canciones más conocidas y, teniendo en cuenta que sólo tenía veinte años, de las más significativas.</p>
+
+<p>En julio de 1962 se casa con Enrica Rignon (llamada Puny) y el 29 de diciembre del mismo año nace su hijo Cristiano. Fabrizio tenía apenas veintidós años, una familia, varios trabajos y un hobby no muy rentable. Sin embargo, en 1965 se produjo un punto de inflexión en su carrera cuando Mina interpretó su canción "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CVolume3%5CMarinella.htm">La canzone di Marinella</a>", que inmediatamente se convirtió en un éxito de ventas y llamó la atención general. "Gané seiscientas mil libras en un semestre (por esos años una suma muy considerable) - dijo Fabrizio en una entrevista -. Así que raudo y veloz tomé esposa, hijo y suegro y nos mudamos a Corso Italia, un barrio elegante de Génova. Terminé con todo lo relacionado con los estudios y demás y a partir de ese momento empecé a pensar que tal vez me gustaría más escribir canciones y, sobre todo, que sería más divertido ".</p>
+    
+      <h2 id="discos-1966---1979">
+        
+        
+          <a href="#discos-1966---1979" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> 
+        
+        
+          <a href="#discos-1966---1979" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> <strong>Discos: 1966 - 1979</strong>
+        
+        
+      
+        
+        
+      </h2>
+
+<p>Alentado por este éxito, en 1966 vio la luz su primer LP "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CTuttoFDA%5C%5CTuttoFDA.htm">Tutto Fabrizio de André</a>", que contiene algunas de las mejores canciones escritas hasta el momento, incluyendo <a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CTuttoFDA%5CCanzoneMarinella.htm">"La canzone di Marinella</a>", "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CTuttoFDA%5CGuerraPiero.htm">La guerra di Piero</a>", "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CTuttoFDA%5CTestamento.htm">El Testamento</a>", <a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CTuttoFDA%5CBallataMiche.htm">"La balatta del Miche'</a>", "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CTuttoFDA%5CCanzoneAmorePerduto.htm">La canzone dell'amore perduto</a>", "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CTuttoFDA%5CCittaVecchia.htm">La città vecchia</a>".</p>
+
+<p>Al anterior LP le sigue en 1967 "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CVolume1%5C%5CVolume1.htm">Volume I</a>", en el que se encuentran "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CVolume1%5CViadelCampo.htm">Via del Campo</a>", "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CVolume1%5C%5CBoccadiRosa.htm">Bocca di rosa</a>" y "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CVolume1%5C%5CPreghiera.htm">Preghiera in gennaio</a>": las dos primeras dedicadas, con un profundo sentido de la solidaridad y comprensión, a la imagen de dos prostitutas; la tercera fue compuesta con ocasión de la trágica muerte de su amigo Luigi Tenco, que se suicidó el 27 de enero en San Remo.</p>
+
+<p>Con este álbum se abrió la época más prolífica en la carrera de De André; con poco espacio de tiempo entre uno y otro aparecieron: "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CTuttiMoremmoaStento%5C%5CTuttiMoremmoaStento.htm">Tutti morimmo a stento</a>" (1968), "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CVolume3%5C%5CVolume3.htm">Volume III</a>" (1968), "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CLaBuonaNovella%5CLaBuonaNovella.htm">La buona novella</a>" (1970), "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CEstudio%5CNonAlDenaro%5CNonAlDenaro.htm">Non al denaro non all'amore né al cielo</a>" (1971), "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CStoriaImpiegato%5C%5CStoriaImpiegato.htm">Storia di un impiegato</a>" (1973), "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CCanzoni%5C%5CCanzoni.htm">Canzoni</a>" (1974) y "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CVolume8%5C%5CVolume8.htm">Volume VIII</a>" (1975).</p>
+
+<p>En 1975 De André, que siempre había rehusado el cara a cara con el público, tocó por primera vez en directo en el simbólico local de la Versilia, "La Bussola". A pesar de sus miedos (parece que en el último momento no quería salir al escenario), el concierto fue todo un éxito.</p>
+
+<p>Con el dinero obtenido se compró una granja en la vecindad de Tempio Pausania, Cerdeña. Y en 1977, de la unión con Dori Ghezzi (cantante milanesa a la que estuvo vinculado desde 1974, después de la separación de su primera esposa), nació Luisa Victoria, llamada Luvi. Poco después llegó el álbum "<a href="../../C:%5C%5CUsers%5C%5Cdiegu%5C%5CDocuments%5C%5CFabrizioDeAndre%5C%5CDiscografia%5C%5CEstudio%5C%5CRimini%5C%5CRimini.htm">Rimini</a>" (1978), escrito en colaboración con Massimo Bubola, y "<a href="../../C:%5CUsers%5Cdiegu%5CDocuments%5CFabrizioDeAndre%5CDiscografia%5CDirectos%5CInConcertoPFM%5CInConcertoPFM2CDs%5CInConcertoPFM2CDs.htm">In concerto con la PFM</a>" (1979).</p>
+    
+      <h2 id="el-secuestro">
+        
+        
+          <a href="#el-secuestro" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> 
+        
+        
+          <a href="#el-secuestro" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> <strong>El secuestro</strong>
+        
+        
+      
+        
+        
+      </h2>
+
+<p>En la noche del 27 de agosto 1979 Dori y Fabrizio fueron secuestrados durante cuatro meses. Esta traumática experiencia no consiguió borrar el amor del Fabrizio por su tierra de adopción; tanto es así que no hay rastro alguno de resentimiento en las declaraciones que hizo después de la liberación: "Los secuestradores - dijo - fueron muy amables, casi maternales … Recuerdo que uno de ellos, una noche que había bebido un poco de más, se dejó llevar y nos dijo que no disfrutaba con nuestra situación ".</p>
+
+<p>El 29 de octubre de 1980 a la edad de sesenta años, murió su amado Brassens víctima de un tumor. De André diría un año más tarde, durante una entrevista concedida al diario "La Stampa": "A pesar de haber tenido la oportunidad, nunca quise conocerlo personalmente, para evitar convertirlo en una persona corriente e incluso que Brassens pudiese llegar a parecerme una persona desagradable. Para mí era un mito, una guía, un ejemplo. Es gracias a él que me acerqué al anarquismo; representaba la superación de los valores pequeño-burgueses y enseñó a la burguesía ciertas formas de respeto a los que no estaban acostumbrados. Sus letras pueden leerse incluso sin música. Para mí es como leer a Sócrates: te enseña cómo comportarse, o, al menos, cómo no comportarse".</p>
+    
+      <h2 id="discos-1981---1996">
+        
+        
+          <a href="#discos-1981---1996" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> 
+        
+        
+          <a href="#discos-1981---1996" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#link"></use></svg></a> <strong>Discos: 1981 - 1996</strong>
+        
+        
+      
+        
+        
+      &lt;/html&gt;
+            
+
+          
+
+          
+
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</h2></div></div></div></div></div></body></html></div></div></div></div></div></body></html>
+:ET
